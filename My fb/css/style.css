@@ -1,0 +1,128 @@
+body{
+	margin:0;
+}
+.maincontainer{
+    width:100%;
+	height:90px;
+	background-color:#3b5998;
+}
+.innercontainer{
+    width:1000px;
+	height:90px;
+	margin:auto;
+}
+.logo{
+	color:white;
+	font-family:arial;
+	font-size:43px;
+	margin-top:33px;
+	float:left;
+	margin-bottom:0px;
+}
+.logintable{
+	color:white;
+	font-size:13px;
+	float:right;
+	margin-top:13px;
+	margin-bottom:0px;
+	margin-right:20px;
+}
+.maincontainer1{
+	width:100%;
+	height:500px;
+	background:url(../images/bg.png);
+}
+.innercontainer1{
+	width:1000px;
+	height:500px;
+	color:white;
+	margin:auto;
+}
+.leftsection{
+	width:500px;
+	height:500px;
+	float:left;
+}
+.rightsection{
+	width:500px;
+	height:500px;
+	float:right;
+}
+.left1{
+	width:150px;
+	height:auto;
+	float:left;
+	margin-top:30px;
+}
+.left2{
+	width:300px;
+	height:470px;
+	float:left;
+	margin-top:20px;
+	color:navy;
+	font-family:arial;
+	font-size:14px;
+}
+.leftlist{
+	color:grey;
+	padding-left:15px;
+    font-size:13px;	
+}
+.leftlist li{
+    line-height:25px;
+}
+.signuptable{
+	color:navy;
+	font-family:arial;
+	margin-top:30px;
+	font-size:13px;
+	margin-left:65px;
+}
+.signup{
+	font-weight:bold;
+	font-size:25px;
+}
+.signuptable input[type="text"]{
+	width:230px;
+	height:30px;
+	border:solid 1px #CCC;
+}
+.signuptable select{
+	padding:4px;
+	border:solid 1px #CCC;
+}
+.i{
+	font-weight:bold;
+}
+.birthday{
+	font-weight:bold;
+}
+.color{
+	color:blue;
+}
+.bottom{
+	color:black;
+}
+.line{
+	color:black;
+	font-weight:bold;
+}
+.footer{
+    width:100%;
+    height:70px;
+}
+.footerlist1{
+    margin:0;
+    list-style:none;
+    padding:0;
+    font-family:arial;
+    font-size:13px;
+	margin:auto;
+}
+.footerlist1 li{
+    margin-right:10px;
+    float:left;
+}	
+.color1{
+	color:grey;
+}
